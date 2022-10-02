@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React.js-Promodoro-Timer/static/css/main.233202d6.css",
+    "main.js": "/React.js-Promodoro-Timer/static/js/main.0f966693.js",
+    "static/js/787.9643d87c.chunk.js": "/React.js-Promodoro-Timer/static/js/787.9643d87c.chunk.js",
+    "static/media/DIGITALDREAM.ttf": "/React.js-Promodoro-Timer/static/media/DIGITALDREAM.a73dceeac9213d0ee0e7.ttf",
+    "static/media/beep.mp3": "/React.js-Promodoro-Timer/static/media/beep.641649085c370e5624a7.mp3",
+    "index.html": "/React.js-Promodoro-Timer/index.html",
+    "main.233202d6.css.map": "/React.js-Promodoro-Timer/static/css/main.233202d6.css.map",
+    "main.0f966693.js.map": "/React.js-Promodoro-Timer/static/js/main.0f966693.js.map",
+    "787.9643d87c.chunk.js.map": "/React.js-Promodoro-Timer/static/js/787.9643d87c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233202d6.css",
+    "static/js/main.0f966693.js"
+  ]
+}
