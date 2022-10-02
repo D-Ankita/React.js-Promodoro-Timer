@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+﻿<img width="914" alt="creative" src="https://user-images.githubusercontent.com/46243069/193409992-92bb3ff3-dc98-43b9-8341-47c64780b594.png">
+ 
+# React.js-Promodoro-Timer
+React.js Promodoro timer MD is a Simple Promodoro timer . React.js was used to build this project. This App was developed at the very beginning of learning React.js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pomodoro Timer is a customizable pomodoro timer that works on desktop & mobile browser.
 
-## Available Scripts
+The aim of this app is to boost your productivity.
 
-In the project directory, you can run:
+This app is inspired by [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) which is a time management method developed by [Francesco Cirillo](https://francescocirillo.com/products/the-pomodoro-technique).
 
-### `npm start`
+Plain CSS is used for styling.This project is not complete (as no web app could ever be sufficiently called complete) as we could always enhance the existing feature, fix bugs and add new features. I plan to revisit this project when I want to try something new.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project is hosted on [Github Pages](https://github.com/D-Ankita/React.js-Promodoro-Timer).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About this Project
+One can use this simple Promodoro timer clock for any day to day activities like studying for 1 hour or maybe a screentime of 30 mins etc.. 
 
-### `npm test`
+1. A promodoro Timer starts with a session. You can choose the session Duration. By default A single session is scheduled for 25 Minutes
+2. Start the timer and continue doing your chores.
+3. as soon as the timer ends, It will play a timeup sound, and the Break time will automatically start. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The default Break time is of 5 Minutes. You can change this according to your flexibility.
 
-### `npm run build`
+## How to use
+one can directly start using the Application without any need to install by simply accessing the hosted link.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## To Download and run on local Machine
+### Prerequisites:
+1. Installed [VS-Code](https://code.visualstudio.com/)
+2. Installed [Node.js](https://nodejs.org/en/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Next Steps.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the Repository
+```
+git clone https://github.com/D-Ankita/React.js-Promodoro-Timer.git
+```
+2. Navigate to the folder and install the necessary dependencies.
+```
+npm install
+```
+3.run the Build and Start.
+```
+npm run build
+npm start
+```
 
-### `npm run eject`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<hr>
+<img width="384" alt="Untitled_design-removebg-preview" src="https://user-images.githubusercontent.com/46243069/193410006-8bf45587-0a68-473f-a090-e2b1f61caf20.png">

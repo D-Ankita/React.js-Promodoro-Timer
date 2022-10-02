@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "Digital dream";
+  src: url("../DIGITALDREAM.ttf");
+}
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+/* font-family: 'Staatliches', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+/* font-family: 'Dangrek', cursive; */
+.main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #00ffff;
+	height: 88vh;
+	justify-content: space-evenly;
+	width: 90vw;
+	padding: 2rem;
+}
+.controls{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.controls > *{
+	margin: 20px;
+	width: 16rem;
+	padding: 1rem;
+}
+
+
+.label {
+  margin: 0 1.25rem 0 1.25rem;
+	font-family: "Digital dream";
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+.downArrow {
+  font-size: 1.875rem;
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+}
+
+.upArrow {
+  font-size: 1.875rem;
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+}
+
+.lengthLabel {
+  font-size: 1.5rem;
+  margin: 0 0.625rem;
+  text-align: left;
+	font-family: "Digital dream";
+  font-size: 2rem;
+  letter-spacing: 3px;
+
+}
+
+.setterContainer{
+	margin-top: 1rem;
+}
+.countContainer {
+  display: flex;
+  flex-direction: column;
+  border: 10px solid #ff0026;
+  padding: 40px;
+  border-radius: 30px;
+  margin-top: 20px;
+  align-items: center;
+}
+
+#timer-label {
+	font-family: "Digital dream";
+  font-size: 1rem;
+  letter-spacing: 3px;
+  margin-bottom: 2rem;
+text-transform: uppercase;
+
+}
+
+#time-left {
+  font-family: "Digital dream";
+  font-size: 2.875rem;
+  font-weight: bold;
+}
+
+.controlContainer {
+  margin: 10px 0 0 0;
+  font-size: 1.75rem;
+}
+
+
+
+@media screen and (max-width: 700px) {
+	.main {
+		flex-direction: column;
+		width: 100vw;
+		height: 100vh;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.controls{
+		flex-direction: column;
+		margin-top: 4rem;
+		align-items: center;
+		justify-content: center;
+	}
+	.controls > *{
+		margin: 0px;
+		border: none ;
+		width: 100vw;
+		padding: 1rem;
+		align-items: center;
+		justify-content: center;
+	}
+
+}
