@@ -17,8 +17,13 @@ This project is hosted on [Github Pages](https://github.com/D-Ankita/React.js-Pr
 One can use this simple Promodoro timer clock for any day to day activities like studying for 1 hour or maybe a screentime of 30 mins etc.. 
 
 1. A promodoro Timer starts with a session. You can choose the session Duration. By default A single session is scheduled for 25 Minutes
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/46243069/193520298-ab6ca530-6857-4ddc-b626-698cfdc678b7.png">
+
 2. Start the timer and continue doing your chores.
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/46243069/193521489-94269875-4bf1-4300-b8fe-fd29f590a278.png">
+
 3. as soon as the timer ends, It will play a timeup sound, and the Break time will automatically start. 
+<img width="614" alt="image" src="https://user-images.githubusercontent.com/46243069/193521588-d7221cc6-1da2-4fa3-a80c-44281a8ab000.png">
 
 The default Break time is of 5 Minutes. You can change this according to your flexibility.
 
