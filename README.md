@@ -47,6 +47,7 @@ npm start
 ```
 
 ## Screenshots
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193520127-50427b9d-67c9-40ad-9b4c-a69cc0582896.png">
 
 
 <hr>
